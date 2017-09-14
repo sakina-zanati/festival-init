@@ -1,6 +1,7 @@
 <?php
 
 // FONCTIONS DE CONNEXION
+//TODO script à modifier par l'utilisation de MySQLi 
 
 function connect()
 {
